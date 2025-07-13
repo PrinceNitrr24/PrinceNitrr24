@@ -2,14 +2,15 @@
 <!-- Name and Graduation Heading -->
 <h1 align="center">Hi, I'm Prince Kumar 👋</h1>
 <h3 align="center">🎓 Graduated from NIT Raipur | Batch of 2024</h3>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrinceNitrr24&color=brightgreen" alt="Profile views" />
+</p>
 
 <!-- GIF Banner -->
 <p align="center">
   <img src="https://i.ibb.co/5W7CtRWn/Chat-GPT-Image-Jul-14-2025-12-06-16-AM.png" alt="Prince Kumar | NIT Raipur" style="max-width:100%; width:100%;" />
 </p>
-
-
-
 <!-- Social Icons -->
 <h3 align="center">🌐 Connect with Me</h3>
 
