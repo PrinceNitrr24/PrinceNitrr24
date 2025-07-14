@@ -2,9 +2,13 @@
 <!-- Name and Graduation Heading -->
 <h1 align="center">Hi, I'm Prince Kumar 👋</h1>
 <h3 align="center">🎓 Graduated from NIT Raipur | Batch of 2024</h3>
-<!-- Profile Views -->
+
+<!-- Profile Views and WakaTime Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrinceNitrr24&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PrinceNitrr24&color=brightgreen" alt="Profile views" /><br/>
+  <a href="https://wakatime.com/@aa6e6906-9277-4e7a-b5c6-fea542a02882">
+    <img src="https://wakatime.com/badge/user/aa6e6906-9277-4e7a-b5c6-fea542a02882.svg" alt="WakaTime">
+  </a>
 </p>
 
 <!-- GIF Banner -->
