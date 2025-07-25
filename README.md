@@ -77,6 +77,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![An image of @princenitrr24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/princenitrr24)](https://holopin.io/@princenitrr24)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PrinceNitrr24&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
