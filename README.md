@@ -1,8 +1,12 @@
 
-<!-- Name and Graduation Heading -->
-<h1 align="center">Hi, I'm Prince Kumar 👋</h1>
-<h3 align="center">🎓 Graduated from NIT Raipur | Batch of 2024</h3>
+<!-- About Me Section -->
+<h2 align="center">👨‍💻 About Me</h2>
 
+<p align="center">
+Hi, I'm <b>Prince Kumar</b>, a passionate <b>Full Stack Developer</b> who loves building end-to-end products with meaningful user experiences and scalable backends.<br/><br/>
+Proficient in <b>JavaScript/TypeScript</b>, I work across the stack using tools like <b>React.js, Next.js, Node.js, Express, PostgreSQL, Supabase, and MongoDB</b>. I also leverage cloud platforms like <b>AWS</b>, <b>Firebase</b>, and <b>Render</b> to ship fast, secure, and production-ready apps.<br/><br/>
+Graduated from 🏫 <b>NIT Raipur</b>, I have a solid foundation in computer science and a deep interest in solving real-world problems through code. When I’m not coding, I love contributing to open-source, sharing knowledge, and diving into new tech!
+</p>
 <!-- Profile Views and WakaTime Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrinceNitrr24&color=brightgreen" alt="Profile views" /><br/>
