@@ -41,9 +41,20 @@ Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/i
   </a>
 </p>
 <!-- GIF Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/5W7CtRWn/Chat-GPT-Image-Jul-14-2025-12-06-16-AM.png" alt="Prince Kumar | NIT Raipur" style="max-width:100%; width:100%;" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTExajQyeTFtN2pzbWZzaWxxNm1pYmZ6NWdreXpqd2RheDNkdXpwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="Prince Kumar | NIT Raipur" width="100%" />
+    </td>
+    <td align="right">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI3dGlobzQ3czBoaDUzcDVrb3N1eGRpdGNwcmRwa3U5aTNqOTBsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/txnXmljUiXibLKQxzZ/giphy.gif" alt="Hero" width="100%" />
+    </td>
+    <td align="right">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV6Y29qMTBwbTVsMHc4cDhxaGhyc3JidjVwenNua3Nlb3prMmowbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Hero" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <!-- Social Icons -->
 <h3 align="center">🌐 Connect with Me</h3>
 
