@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello!</h1>
 Glad to see you here! I'm <b>Prince Kumar</b>, a <b>Full Stack Developer</b> who enjoys turning ideas into working products. I specialize in <b>JavaScript, Node.js, Express.js, React.js and Next.js</b>, and I’m always exploring new tools to make development more efficient and scalable. With a solid foundation from <b>NIT Raiour</b>, I love building both polished frontends and resilient backends.
 
-When I’m not building apps, you can find me sharing dev tips, contributing to open source, or diving into real-time technologies and backend performance. I balance code with curiosity and find peace in a cup of ☕ tea and tech podcasts 🎧.
+I balance code with curiosity and find peace in a cup of ☕ tea and tech podcasts 🎧.
 
 ---
 
