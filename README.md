@@ -1,10 +1,47 @@
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+</div>
 <h1 align="center">Hi there!👋 I am Prince Kumar</h1>
-Glad to see you here! I'm <b>Prince Kumar</b>, a <b>Full Stack Developer</b> who enjoys turning ideas into working products. I specialize in <b>JavaScript, Node.js, Express.js, React.js and Next.js</b>, and I’m always exploring new tools to make development more efficient and scalable. With a solid foundation from <b>NIT Raipur</b>, I love building both polished frontends and resilient backends.
-
+Glad to see you here! I'm <b>Prince Kumar</b>, a <b>Full Stack Developer</b> who enjoys turning ideas into working products. I specialize in <b>JavaScript, Node.js, Express.js, React.js and Next.js</b>, and I’m always exploring new tools to make development more efficient and scalable.I love building both polished frontends and resilient backends.
+<!-- <a align="center" >
+  <img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Full%20Stack%20Engineer%20&location=Delhi&fill=black">
+</a> -->
 I balance code with curiosity and find peace in a cup of ☕ tea and tech podcasts 🎧.
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h1 align="center">A little more about me...</h1>
 
+```javascript
+const NightOwlCoder = {
+  name: "Prince Kumar",
+  pronouns: "he/him",
+  title: "Software Engineer | NIT Raipur '24",
+Frontend: [
+  JavaScript,
+  TypeScript,
+  HTML,
+  CSS,
+  TailwindCSS,
+  MUI,
+  React.js,
+  Next.js
+],
+ backend: [
+      Node.js,
+      Express.js,
+      Next.js (API Routes)
+    ],
+  architecture: ["microservices", "event-driven"],
+ philosophy: [
+    "Code. Create. Ship. Repeat.",
+    "Think in components. Design for users.",
+    "Break things. Fix them better."
+  ],
+  vibes: "Coffee | Code | Consistency",
+  reachOut: "Let’s connect and build something epic →",
+}
+```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
-
 Currently, I'm working on exciting projects involving <b>Next.js</b>, <b>Express</b>, <b>Node.js</b>, and <b>Socket.io</b> — building full-stack applications that are both scalable and fast. I'm also exploring cloud services like <b>AWS</b>, <b>Render</b>, and <b>Firebase</b> to deploy and monitor apps at scale.
 
 In the past, I've built systems like:
@@ -14,8 +51,37 @@ In the past, I've built systems like:
 - 📡 **APIs with Django, Next.js, Express**
 
 Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/in/prince-kumar-240bb0224) or drop an email at: **princekumarbug12344@gmail.com**.
-
 ---
+<div align="center">
+  
+```diff
++-------------------------------------------------------------------------------------------------------------+
+@@                                                                                                           @@
+@@   🌙  Night Owl Coder — Code. Debug. Repeat. 🌌                                                          @@
+@@                                                                                                           @@
+@@           o     o                                                                                         @@
+@@          /|-----|\          The screen is my canvas,                                                      @@
+@@         /_|___~_|_\         the night is my fuel.                                                         @@
+@@       ❮\/__--__\/❯                                                                                        @@
+@@       ❮(| -.-  |)❯         Real hackers debug in the dark.                                                @@
+@@       ❮/ \___/ \❯                                                                                         @@
+@@         _/`U'\_                                                                                           @@
+@@        (  . .  )        .-----------------------------------------.                                       @@
+@@       / /     \ \       |  while (!success) {                     |                                       @@
+@@      / |  ☕   | \       |    try()                               |                                       @@
+@@      \ |  💻   | /       |  } catch(e) { learn(e); }              |                                       @@
+@@       \|=======|/       '-----------------------------------------'                                        @@
+@@        |  .^.  |                                                                                           @@
+@@        |  |"|  |         // Every bug is a breadcrumb.                                                     @@
+@@        (  (_)  )         // Every failure a forced evolution.                                              @@
+@@        |_|___|_|                                                                                           @@
+@@   _.-'   | |   '-._                                                                                        @@
+@@  (__.'   |_|     '.__)                                                                                     @@
++--------------------------------------------------------------------------------------------------------------+
+
+```
+  
+</div>
 
 ### 📌 Quick Links
 
@@ -121,8 +187,14 @@ Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/i
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PrinceNitrr24&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=PrinceNitrr24&icon=2&color=1)](https://visitcount.itsvg.in)
-
+<p align="center">
+<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+ 
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<div align="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
