@@ -63,7 +63,7 @@ Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/i
 @@          /|-----|\          The screen is my canvas,                                                      @@
 @@         /_|___~_|_\         the night is my fuel.                                                         @@
 @@       ❮\/__--__\/❯                                                                                        @@
-@@       ❮(| -.-  |)❯         Real hackers debug in the dark.                                                @@
+@@       ❮(| -.-  |)❯         Real developer debug in the dark.                                                @@
 @@       ❮/ \___/ \❯                                                                                         @@
 @@         _/`U'\_                                                                                           @@
 @@        (  . .  )        .-----------------------------------------.                                       @@
