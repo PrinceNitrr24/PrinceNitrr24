@@ -179,6 +179,7 @@ Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/i
 ![](https://github-readme-stats.vercel.app/api?username=PrinceNitrr24&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PrinceNitrr24&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceNitrr24&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=PrinceNitrr24&theme=react-dark&hide_border=false&area=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
