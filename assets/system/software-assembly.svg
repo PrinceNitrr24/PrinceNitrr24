@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700" role="img" aria-labelledby="title desc">
+  <title id="title">Software system exploded assembly</title>
+  <desc id="desc">An isometric engineering illustration mapping a product interface, event rail, service chassis and data stores onto a physical precision instrument.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0e12"/><stop offset="1" stop-color="#11161d"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5e6875"/><stop offset=".5" stop-color="#242b34"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b9e7ff" stop-opacity=".24"/><stop offset="1" stop-color="#6bb8ff" stop-opacity=".06"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91a0b2" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1400" height="700" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1398" height="698" rx="27" fill="none" stroke="#667383" stroke-opacity=".28"/>
+  <rect width="1400" height="700" rx="28" fill="url(#grid)"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#aab5c3">
+    <text x="54" y="63" font-size="14" letter-spacing="3">ASSEMBLY / PK-01</text>
+    <text x="1346" y="63" text-anchor="end" font-size="12" letter-spacing="2">ORTHO 45° / 30°</text>
+  </g>
+
+  <!-- base plate -->
+  <g stroke-linejoin="round">
+    <path d="M248 509 655 326l496 188-410 185z" fill="#11161c" stroke="#758292" stroke-opacity=".5"/>
+    <path d="M248 509v35l493 117v38L248 581z" fill="#090c10" stroke="#343c47"/>
+    <path d="m741 699 410-186v37L741 736z" fill="#171d25" stroke="#343c47"/>
+    <path d="M286 518 657 351l451 171-372 168z" fill="#161c23" stroke="#2f3843"/>
+    <path d="M311 516 658 360l422 160-348 158z" fill="none" stroke="#88a0b8" stroke-opacity=".12" stroke-dasharray="6 8"/>
+  </g>
+
+  <!-- data drums -->
+  <g stroke="#708092" stroke-width="1.2">
+    <ellipse cx="470" cy="504" rx="72" ry="28" fill="#29323d"/>
+    <path d="M398 504v70c0 16 32 29 72 29s72-13 72-29v-70" fill="#141a21"/>
+    <ellipse cx="470" cy="574" rx="72" ry="29" fill="#1d252e"/>
+    <ellipse cx="470" cy="501" rx="51" ry="18" fill="#0c1116" stroke="#7fe3c0" stroke-opacity=".7"/>
+    <path d="M418 528c7 13 30 21 52 21 26 0 48-9 55-22M418 553c7 13 30 21 52 21 26 0 48-9 55-22" fill="none" stroke="#4b5968"/>
+    <ellipse cx="843" cy="514" rx="72" ry="28" fill="#29323d"/>
+    <path d="M771 514v70c0 16 32 29 72 29s72-13 72-29v-70" fill="#141a21"/>
+    <ellipse cx="843" cy="584" rx="72" ry="29" fill="#1d252e"/>
+    <ellipse cx="843" cy="511" rx="51" ry="18" fill="#0c1116" stroke="#7fe3c0" stroke-opacity=".7"/>
+    <path d="M791 538c7 13 30 21 52 21 26 0 48-9 55-22M791 563c7 13 30 21 52 21 26 0 48-9 55-22" fill="none" stroke="#4b5968"/>
+  </g>
+
+  <!-- service chassis -->
+  <g stroke-linejoin="round">
+    <path d="m430 405 268-118 315 116-271 124z" fill="url(#metal)" stroke="#8392a2"/>
+    <path d="m430 405v72l312 76v-26z" fill="#11161d" stroke="#44505d"/>
+    <path d="m742 527 271-124v72L742 553z" fill="#202832" stroke="#44505d"/>
+    <path d="m474 406 225-98 266 97-227 103z" fill="#151b22" stroke="#596675"/>
+    <g fill="#80e2c0" stroke="none">
+      <circle cx="782" cy="486" r="5"/><circle cx="808" cy="474" r="5"/><circle cx="834" cy="462" r="5"/>
+    </g>
+    <g fill="#0b0f14" stroke="#536273">
+      <path d="m515 398 64-28 47 18-64 29z"/><path d="m594 363 64-28 47 18-64 29z"/>
+      <path d="m677 331 64-28 47 18-64 29z"/><path d="m766 344 64-28 47 18-64 29z"/>
+      <path d="m849 375 64-28 47 18-64 29z"/>
+    </g>
+  </g>
+
+  <!-- event rail -->
+  <g>
+    <path d="M414 322 690 200l338 126-283 128z" fill="none" stroke="#70aef8" stroke-width="5" stroke-opacity=".8"/>
+    <path d="M460 323 690 222l290 106-235 106z" fill="none" stroke="#70aef8" stroke-opacity=".32" stroke-dasharray="5 8"/>
+    <g fill="#8fc4ff" stroke="#d6ebff" stroke-width="2">
+      <circle cx="472" cy="296" r="8"/><circle cx="585" cy="246" r="8"/><circle cx="703" cy="230" r="8"/>
+      <circle cx="817" cy="271" r="8"/><circle cx="931" cy="314" r="8"/><circle cx="838" cy="374" r="8"/>
+      <circle cx="718" cy="421" r="8"/><circle cx="586" cy="371" r="8"/>
+    </g>
+    <g stroke="#7aa9dc" stroke-opacity=".4"><path d="M472 296v67"/><path d="M585 246v91"/><path d="M703 230v75"/><path d="M817 271v63"/><path d="M931 314v72"/></g>
+  </g>
+
+  <!-- interface glass -->
+  <g stroke-linejoin="round">
+    <path d="m405 209 295-130 358 132-301 136z" fill="url(#glass)" stroke="#b8d8f5" stroke-opacity=".8"/>
+    <path d="m405 209v32l352 86v20z" fill="#1b2733" fill-opacity=".7" stroke="#6e8295"/>
+    <path d="m757 347 301-136v31L757 379z" fill="#294052" fill-opacity=".55" stroke="#6e8295"/>
+    <path d="m462 209 239-104 299 108-245 110z" fill="#0d141b" fill-opacity=".78" stroke="#7893aa"/>
+    <path d="m497 205 78-34 50 18-79 35zM589 164l78-34 50 18-79 35zM691 128l78 28-57 25-78-28zM739 193l92-40 91 33-92 41zM568 238l126-55 93 34-127 57z" fill="#263340" stroke="#51677a"/>
+    <path d="m738 267 73-32 107 39-75 34z" fill="#16222d" stroke="#70aef8" stroke-opacity=".7"/>
+  </g>
+
+  <!-- exploded guide posts -->
+  <g fill="none" stroke="#8fa2b5" stroke-opacity=".38" stroke-dasharray="4 8">
+    <path d="M464 222v101M987 221v105M443 341v67M1008 341v61M470 476v28M843 484v31"/>
+  </g>
+  <g fill="#10151b" stroke="#91a0b2"><circle cx="464" cy="222" r="4"/><circle cx="987" cy="221" r="4"/><circle cx="443" cy="341" r="4"/><circle cx="1008" cy="341" r="4"/></g>
+
+  <!-- callouts -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#c6d0db" stroke="#536273" stroke-width="1">
+    <path d="M354 174h-92v-28H116" fill="none"/><circle cx="354" cy="174" r="4" fill="#8fc4ff"/>
+    <text x="116" y="132" stroke="none" letter-spacing="2">01 / INTERFACE</text><text x="116" y="151" stroke="none" fill="#748294">VISIBLE STATE</text>
+    <path d="M1077 322h75v-40h132" fill="none"/><circle cx="1077" cy="322" r="4" fill="#8fc4ff"/>
+    <text x="1171" y="266" stroke="none" letter-spacing="2">02 / EVENTS</text><text x="1171" y="285" stroke="none" fill="#748294">LIVE SIGNAL</text>
+    <path d="M1024 458h99v48h161" fill="none"/><circle cx="1024" cy="458" r="4" fill="#80e2c0"/>
+    <text x="1155" y="490" stroke="none" letter-spacing="2">03 / SERVICES</text><text x="1155" y="509" stroke="none" fill="#748294">DOMAIN WORK</text>
+    <path d="M399 555H272v54H116" fill="none"/><circle cx="399" cy="555" r="4" fill="#80e2c0"/>
+    <text x="116" y="593" stroke="none" letter-spacing="2">04 / DATA</text><text x="116" y="612" stroke="none" fill="#748294">PERSISTED TRUTH</text>
+  </g>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#6f7d8d">
+    <text x="54" y="655">SYSTEM STATES / IDLE · REQUEST · EVENT · COMMIT</text>
+    <text x="1346" y="655" text-anchor="end">PRINCE KUMAR / 2026</text>
+  </g>
+</svg>
