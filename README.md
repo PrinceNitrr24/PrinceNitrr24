@@ -8,6 +8,11 @@
 </p>
 
 <p align="center">
+  <img src="assets/animations/status.gif" width="72" alt="Subtle active development status pulse" />
+  <br/><sub>CURRENT THREAD&nbsp;&nbsp;·&nbsp;&nbsp;PRODUCT INTERFACES + EVENT-DRIVEN SYSTEMS</sub>
+</p>
+
+<p align="center">
   <a href="https://prince-portfolio-hmwm.vercel.app/">Portfolio</a>
   &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prince2024/">LinkedIn</a>
@@ -18,8 +23,12 @@
 </p>
 
 <div align="center">
-  <img src="assets/workspace.svg" width="100%" alt="A dark, precisely rendered developer workspace with a laptop displaying a code editor and application preview" />
+  <a href="assets/hero-master-4k.jpg">
+    <img src="assets/hero-banner.jpg" width="100%" alt="A cinematic nighttime developer workspace with a space-gray laptop, code editor, terminal, and warm desk lighting" />
+  </a>
 </div>
+
+<p align="center"><sub>Open the banner to view the 3840 × 2160 master.</sub></p>
 
 <br/>
 
@@ -36,7 +45,7 @@ The common thread is integration. I like projects where a polished screen is onl
 **A reading experience that turns submitted stories into playable narration.** The Next.js client handles story creation, browsing, sharing, and audio playback. An Express service persists stories in MongoDB and connects the content pipeline to ElevenLabs and Google text-to-speech tooling.
 
 <div align="center">
-  <img src="assets/story-system.svg" width="100%" alt="StoryToVoice architecture: Next.js interface to Express API, MongoDB storage, text-to-speech services, and generated audio" />
+  <img src="assets/projects/story-system.svg" width="100%" alt="StoryToVoice architecture: Next.js interface to Express API, MongoDB storage, text-to-speech services, and generated audio" />
 </div>
 
 `Next.js 14` &nbsp; `TypeScript` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `ElevenLabs` &nbsp; `Google TTS`
@@ -50,7 +59,7 @@ The common thread is integration. I like projects where a polished screen is onl
 **A real-time messaging application built around authenticated, event-driven communication.** The React client uses Redux Toolkit for application state while Socket.IO carries live messages through the Express service. MongoDB stores application data; JWT and email tooling support account flows.
 
 <div align="center">
-  <img src="assets/realtime-system.svg" width="100%" alt="princeDevChat event flow: two React clients exchanging events through Socket.IO and Express with MongoDB persistence" />
+  <img src="assets/projects/realtime-system.svg" width="100%" alt="princeDevChat event flow: two React clients exchanging events through Socket.IO and Express with MongoDB persistence" />
 </div>
 
 `React` &nbsp; `Redux Toolkit` &nbsp; `Socket.IO` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `JWT`
@@ -91,6 +100,10 @@ These are technologies visible in the repositories above—not an inventory of e
 ## Engineering note
 
 The strongest direction in my public work is the space between a user action and the system reaction: a message arriving without refresh, a story becoming audio, an authenticated workflow reaching the right data, or a payment event crossing a service boundary. That is where interface decisions become architecture decisions—and where I’m doing my most useful work.
+
+<div align="center">
+  <img src="assets/animations/signal.gif" width="100%" alt="Two restrained data signals crossing a system boundary" />
+</div>
 
 <br/>
 
