@@ -18,12 +18,12 @@
 </p>
 
 <div align="center">
-  <a href="assets/system/software-assembly.svg">
-    <img src="assets/animations/system-anatomy.webp" width="100%" alt="A looping 3D render of an exploded software assembly showing interface, event, service, and data layers mounted on a precision base" />
+  <a href="assets/animations/macbook-developer-workspace-static.webp">
+    <img src="assets/animations/macbook-developer-workspace.webp" width="100%" alt="A cinematic looping developer workspace where an aluminum laptop wakes, TypeScript code is written, a Next.js development server starts, and a StoryToVoice preview updates" />
   </a>
 </div>
 
-<p align="center"><sub>FIG. 01 — PRODUCT SYSTEM, EXPLODED · OPEN THE FRAME FOR THE STATIC DRAWING</sub></p>
+<p align="center"><sub>WORKSPACE 01 — CODE / TERMINAL / PRODUCT · OPEN FOR A STATIC FRAME</sub></p>
 
 ---
 
@@ -55,7 +55,7 @@ I care about what happens after the button is pressed—whether the request is u
 ### 01 / Candidate.live
 
 <div align="center">
-  <img src="assets/projects/candidate-assembly.svg" width="100%" alt="Exploded candidate platform assembly with dashboard, event bus, service chassis, and two data stores" />
+  <img src="assets/projects/candidate-workspace.svg" width="100%" alt="Candidate.live workspace with a candidate pipeline, service status, and data panels" />
 </div>
 
 **A multi-service candidate platform with a Next.js dashboard and Express backend.** The repository combines uploads, maps, charts, Socket.IO events, MongoDB, PostgreSQL through Drizzle, and ingestion/search services. Its own hardening notes identify authentication replacement and complete organization scoping as ongoing work.
@@ -69,7 +69,7 @@ I care about what happens after the button is pressed—whether the request is u
 ### 02 / StoryToVoice
 
 <div align="center">
-  <img src="assets/projects/story-voice-instrument.svg" width="100%" alt="A technical narration instrument carrying story input through an API, database, text-to-speech stage, and audio output" />
+  <img src="assets/projects/story-workspace.svg" width="100%" alt="StoryToVoice workspace with a story editor, narration waveform, and audio preview" />
 </div>
 
 **A reading experience that turns submitted stories into playable narration.** The Next.js client handles story creation, browsing, sharing, and playback; an Express service persists stories in MongoDB and connects the content path to text-to-speech tooling.
@@ -83,7 +83,7 @@ I care about what happens after the button is pressed—whether the request is u
 ### 03 / princeDevChat
 
 <div align="center">
-  <img src="assets/projects/devchat-switchboard.svg" width="100%" alt="A real-time message switchboard with two clients, Socket.IO routing, an Express service, and MongoDB persistence" />
+  <img src="assets/projects/devchat-workspace.svg" width="100%" alt="princeDevChat workspace with a live conversation, Socket.IO status, and message delivery details" />
 </div>
 
 **An authenticated, event-driven messaging application.** Redux Toolkit manages client state while Socket.IO carries live messages through the Express service. MongoDB stores application data; JWT and email tooling support account flows.
