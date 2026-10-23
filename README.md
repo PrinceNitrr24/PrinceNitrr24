@@ -18,10 +18,12 @@
 </p>
 
 <div align="center">
-  <img src="assets/system/software-assembly.svg" width="100%" alt="An exploded isometric software assembly showing interface, event, service, and data layers mounted on a precision base" />
+  <a href="assets/system/software-assembly.svg">
+    <img src="assets/animations/system-anatomy.webp" width="100%" alt="A looping 3D render of an exploded software assembly showing interface, event, service, and data layers mounted on a precision base" />
+  </a>
 </div>
 
-<p align="center"><sub>FIG. 01 — PRODUCT SYSTEM, EXPLODED · INTERFACE / EVENTS / SERVICES / DATA</sub></p>
+<p align="center"><sub>FIG. 01 — PRODUCT SYSTEM, EXPLODED · OPEN THE FRAME FOR THE STATIC DRAWING</sub></p>
 
 ---
 
