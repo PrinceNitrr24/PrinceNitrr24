@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Midnight developer workspace</title>
+  <desc id="desc">A restrained dark workspace with a realistic laptop displaying code and an application preview, lit by a soft cool-white desk light.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050608"/><stop offset=".62" stop-color="#0B0D11"/><stop offset="1" stop-color="#030405"/></linearGradient>
+    <radialGradient id="light" cx="0" cy="0" r="1" gradientTransform="translate(705 155) rotate(90) scale(285 520)"><stop stop-color="#CDEBFF" stop-opacity=".13"/><stop offset="1" stop-color="#CDEBFF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#737983"/><stop offset=".16" stop-color="#292D33"/><stop offset="1" stop-color="#08090B"/></linearGradient>
+    <linearGradient id="deck" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4A4F57"/><stop offset=".5" stop-color="#181B20"/><stop offset="1" stop-color="#08090B"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".78"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+    <clipPath id="screen"><rect x="331" y="47" width="538" height="287" rx="10"/></clipPath>
+  </defs>
+  <rect width="1200" height="430" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="26" fill="url(#light)"/>
+  <path d="M0 354C272 330 886 331 1200 356V430H0Z" fill="#07080A"/>
+  <ellipse cx="602" cy="370" rx="405" ry="34" fill="#8BD5FF" opacity=".065" filter="url(#soft)"/>
+  <g filter="url(#shadow)">
+    <rect x="312" y="28" width="576" height="325" rx="21" fill="url(#metal)" stroke="#818792" stroke-opacity=".45"/>
+    <rect x="331" y="47" width="538" height="287" rx="10" fill="#080B10"/>
+    <g clip-path="url(#screen)">
+      <rect x="331" y="47" width="538" height="29" fill="#11141A"/>
+      <circle cx="349" cy="61" r="3.5" fill="#626873"/><circle cx="362" cy="61" r="3.5" fill="#626873"/><circle cx="375" cy="61" r="3.5" fill="#626873"/>
+      <text x="398" y="65" fill="#727A87" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9">events/socket.js</text>
+      <rect x="331" y="76" width="43" height="258" fill="#0D1015"/>
+      <g fill="#4C5563"><rect x="345" y="95" width="15" height="3" rx="1"/><rect x="345" y="112" width="15" height="3" rx="1"/><rect x="345" y="129" width="15" height="3" rx="1"/><rect x="345" y="146" width="15" height="3" rx="1"/></g>
+      <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">
+        <text x="394" y="111" fill="#7E8796">01</text><text x="423" y="111" fill="#D6DAE1">io.on(</text><text x="459" y="111" fill="#D6C69C">'connection'</text><text x="533" y="111" fill="#D6DAE1">, socket =&gt; {</text>
+        <text x="394" y="135" fill="#7E8796">02</text><text x="439" y="135" fill="#D6DAE1">socket.on(</text><text x="497" y="135" fill="#D6C69C">'message'</text><text x="554" y="135" fill="#D6DAE1">, persist);</text>
+        <text x="394" y="159" fill="#7E8796">03</text><text x="439" y="159" fill="#D6DAE1">socket.broadcast.emit(event);</text>
+        <text x="394" y="183" fill="#7E8796">04</text><text x="423" y="183" fill="#D6DAE1">});</text>
+      </g>
+      <rect x="393" y="216" width="218" height="82" rx="9" fill="#0D1219" stroke="#252C36"/>
+      <circle cx="413" cy="237" r="5" fill="#69D3A7"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+      <text x="428" y="241" fill="#8993A2" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9">socket connected</text>
+      <path d="M412 264h172" stroke="#202936"/><path d="M412 278h119" stroke="#202936"/>
+      <rect x="639" y="91" width="198" height="207" rx="11" fill="#F1F3F5"/>
+      <rect x="654" y="108" width="168" height="20" rx="6" fill="#E0E4E8"/>
+      <circle cx="670" cy="151" r="13" fill="#15181D"/><rect x="692" y="144" width="83" height="6" rx="3" fill="#BCC4CC"/><rect x="692" y="157" width="52" height="5" rx="2" fill="#D0D5DA"/>
+      <rect x="669" y="184" width="112" height="31" rx="12" fill="#171A1F"/>
+      <rect x="710" y="226" width="104" height="31" rx="12" fill="#DCE6EC"/>
+      <rect x="654" y="271" width="168" height="14" rx="7" fill="#E1E5E9"/>
+    </g>
+    <path d="M269 353h662l72 43c8 5 4 16-6 16H203c-10 0-14-11-6-16Z" fill="url(#deck)" stroke="#565B63" stroke-opacity=".55"/>
+    <path d="M509 362h182l26 23H483Z" fill="#0A0B0D" stroke="#454A52"/>
+    <path d="M221 412h758" stroke="#8A9098" stroke-opacity=".45"/>
+  </g>
+  <g opacity=".52"><rect x="82" y="287" width="92" height="54" rx="9" fill="#0A0D11" stroke="#2C333D"/><path d="M104 320c13-24 27-24 40 0" fill="none" stroke="#8BD5FF" stroke-width="2"/><circle cx="124" cy="306" r="4" fill="#8BD5FF"/></g>
+  <g opacity=".44"><rect x="1027" y="276" width="94" height="65" rx="10" fill="#0A0D11" stroke="#2C333D"/><path d="M1048 299h51M1048 313h36M1048 327h45" stroke="#7D8794" stroke-width="3" stroke-linecap="round"/></g>
+  <rect x=".5" y=".5" width="1199" height="429" rx="25.5" fill="none" stroke="#24282F"/>
+</svg>
