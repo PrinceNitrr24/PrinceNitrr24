@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Candidate platform assembly</title><desc id="desc">An isometric exploded system with a dashboard glass, event rail, application chassis, search worker and two database drums.</desc>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#0b0e12"/><stop offset="1" stop-color="#141a21"/></linearGradient><pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#778493" stroke-opacity=".07"/></pattern></defs>
+  <rect width="1200" height="420" rx="24" fill="url(#b)"/><rect width="1200" height="420" rx="24" fill="url(#g)"/><rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#4e5966"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace"><text x="40" y="48" fill="#b9c3cf" font-size="13" letter-spacing="2">FIG. 02 / CANDIDATE.LIVE</text><text x="1160" y="48" fill="#718091" font-size="11" text-anchor="end">MULTI-SERVICE PRODUCT</text></g>
+  <g stroke-linejoin="round">
+    <path d="m284 302 294-129 349 127-296 135z" fill="#10151b" stroke="#52606e"/><path d="m284 302v26l347 81v26l-347-82z" fill="#080b0f" stroke="#343d48"/><path d="m631 435 296-135v27L631 462z" fill="#1b232c" stroke="#343d48"/>
+    <path d="m382 249 198-87 236 86-201 91z" fill="#252e38" stroke="#788899"/><path d="m382 249v45l233 55v-10z" fill="#11161d" stroke="#44515e"/><path d="m615 339 201-91v45l-201 93z" fill="#1c252e" stroke="#44515e"/>
+    <path d="m354 139 223-97 270 98-228 102z" fill="#a9dbff" fill-opacity=".09" stroke="#94b8d4"/><path d="m400 137 179-77 217 79-183 81z" fill="#0d151d" stroke="#617a8e"/>
+    <path d="m429 135 75-33 43 16-75 33zM522 95l61-26 42 15-62 27zM586 123l90-39 84 31-90 40zM492 170l117-51 96 35-119 53z" fill="#263542" stroke="#52697c"/>
+  </g>
+  <g fill="#86c5ff" stroke="#d9efff" stroke-width="1.5"><circle cx="381" cy="215" r="6"/><circle cx="481" cy="171" r="6"/><circle cx="585" cy="153" r="6"/><circle cx="693" cy="192" r="6"/><circle cx="800" cy="232" r="6"/></g>
+  <path d="M381 215 585 125l215 79M481 171l212 77" fill="none" stroke="#72b9f4" stroke-width="3" stroke-opacity=".72"/>
+  <g stroke="#6c7b8b"><ellipse cx="428" cy="319" rx="47" ry="18" fill="#26313b"/><path d="M381 319v39c0 10 21 19 47 19s47-9 47-19v-39" fill="#121820"/><ellipse cx="428" cy="358" rx="47" ry="19" fill="#1c252e"/><ellipse cx="428" cy="317" rx="31" ry="11" fill="#0b1015" stroke="#7fe0bf"/>
+  <ellipse cx="785" cy="319" rx="47" ry="18" fill="#26313b"/><path d="M738 319v39c0 10 21 19 47 19s47-9 47-19v-39" fill="#121820"/><ellipse cx="785" cy="358" rx="47" ry="19" fill="#1c252e"/><ellipse cx="785" cy="317" rx="31" ry="11" fill="#0b1015" stroke="#7fe0bf"/></g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#91a0b1" letter-spacing="1.5"><text x="78" y="131">DASHBOARD / MAPS / CHARTS</text><path d="M262 136h75l32 16" fill="none" stroke="#536171"/><text x="951" y="147">SOCKET.IO EVENT RAIL</text><path d="M943 153h-88l-40 45" fill="none" stroke="#536171"/><text x="74" y="341">POSTGRES / DRIZZLE</text><path d="M228 337h145" fill="none" stroke="#536171"/><text x="956" y="342">MONGODB / SEARCH</text><path d="M946 338H841" fill="none" stroke="#536171"/></g>
+</svg>
